@@ -1,0 +1,6 @@
+...
+### 2. CRUD de Filmes com Map
+* **Link:** **[./crud-filmes-map/](./crud-filmes-map/)**
+* **O que é:** Sistema de gerenciamento de filmes usando `HashMap` como banco de dados em memória.
+* **Conceitos:** `Map`, `HashMap`, `Enum`, `CRUD`, `Ordenação`.
+...

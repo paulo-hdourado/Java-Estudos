@@ -17,7 +17,7 @@ Aqui estão os projetos/estudos contidos neste repositório. Clique em qualquer 
 
 ---
 
-### 2. (Em breve: Seu próximo projeto)
-* **Link:** `(Ainda não criado)`
-* **O que é:** ...
-* **Conceitos:** ...
+### 2. CRUD de Filmes com Map
+* **Link:** **[./crud-filmes-map/](./crud-filmes-map/)**
+* **O que é:** Sistema de gerenciamento de filmes usando `HashMap` como banco de dados em memória.
+* **Conceitos:** `Map`, `HashMap`, `Enum`, `CRUD`, `Ordenação`.
